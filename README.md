@@ -1,16 +1,30 @@
-### Hi there 👋
+<img align="right" src="" width="300"/>
 
-<!--
-**namoo9009/namoo9009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1> Hi, I'm Na Mi <img src="" height="180"></h1>
 
-Here are some ideas to get you started:
+<p>
+  <em>
+    <h3>
+      Content Creator at
+        <a href="">
+        나미의 블로그 <img src="">
+    </h3>
+  </em>
+  <em>
+  <h3>
+    Instructor at
+    <a href=""/>
+      삐리리~
+      <img src=""/>
+    </a>
+  </h3>
+  </em>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<h2> My tech stack </h2>
+
+![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=fff)
+![css3](https://img.shields.io/badge/-CSS3-007ACC?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=%23F7DF1&color=%23FFCE5A)
+![React](https://img.shields.io/badge/-React-222222?style=for-the-badge&logo=react)
