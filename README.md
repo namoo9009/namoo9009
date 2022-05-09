@@ -1,23 +1,4 @@
-<h1> Hi, I'm Na Mi <img src="" height="180"></h1>
-
-<p>
-  <em>
-    <h3>
-      Content Creator at
-        <a href="">
-        나미의 블로그 <img src="">
-    </h3>
-  </em>
-  <em>
-  <h3>
-    Instructor at
-    <a href=""/>
-      삐리리~
-      <img src=""/>
-    </a>
-  </h3>
-  </em>
-</p>
+<h1>Na Mi 😊</h1>
 
 <br />
 <h2> My tech stack </h2>
