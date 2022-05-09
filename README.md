@@ -1,5 +1,3 @@
-<img align="right" src="" width="300"/>
-
 <h1> Hi, I'm Na Mi <img src="" height="180"></h1>
 
 <p>
